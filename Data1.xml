@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestAssignment>
+	<NewUserInfo>
+	  <FirstName>Opesydra</FirstName>
+	  <LastName>Uhet</LastName>
+	  <Phone>1234567890</Phone>
+	  <Email>Esasgwat@tco.com</Email>
+	  <Address>India 1245</Address>
+	  <City>XYN</City>
+	  <Stat>ABC</Stat>	
+       	  <PostalCode>123456</PostalCode>
+	  <Country>India</Country>
+	  <UserName>optest</UserName>
+	  <Password>P@$$W00rd</Password>
+	  <Password>P@$$W00rd</Password>
+	</NewUserInfo>
+</TestAssignment>
